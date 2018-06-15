@@ -1,10 +1,5 @@
-Graphics Assignment 1
-=====================
 
 Legend of Zelda 3D game in OpenGL 3. More details in the statement [PDF](Assignment2.pdf).
-
-Utkarsh - 20161073
-=======================
 
 ## 1. How to run the game
 
